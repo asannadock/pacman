@@ -55,7 +55,7 @@ html, body {
 }
 
 .pacman {
-    background: url(/images/pac-man.png) no-repeat 0 0;
+    background: url(images/pac-man.png) no-repeat 0 0;
     transform: rotate(-90deg);
     border: none;
 }
@@ -73,19 +73,19 @@ html, body {
 }
 
 .blinky {
-    background: url(/images/blinky.png) no-repeat 0 0;
+    background: url(images/blinky.png) no-repeat 0 0;
 }
 
 .pinky {
-    background: url(/images/pinky.png) no-repeat 0 0;
+    background: url(images/pinky.png) no-repeat 0 0;
 }
 
 .inky {
-    background: url(/images/inky.png) no-repeat 0 0;
+    background: url(images/inky.png) no-repeat 0 0;
 }
 
 .clyde {
-    background: url(/images/clyde.png) no-repeat 0 0;
+    background: url(images/clyde.png) no-repeat 0 0;
 }
 
 .ghost {
